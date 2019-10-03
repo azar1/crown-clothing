@@ -6,7 +6,7 @@ const CartDropdown = () => {
   return (
     <div className="cart-dropdown">
       <div className="cart-items" />
-      <CustomButton>cart Checkout</CustomButton>
+      <CustomButton>Go to Checkout</CustomButton>
     </div>
   );
 };
